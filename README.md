@@ -2,15 +2,10 @@
 ## Getting and Cleaning Data Project
 
 The run_analysis.R steps:
-
 First and third part of the exercise
-
 1 - Load the txt files into data frames; Test, Test Activity Labels, Test Subjects, Trainning, Trainning Activity Labels and Trainning Subjects. The files are:
-
 X_test.txt
-
 y_test.txt
-
 subject_test.txt
 X_train.txt
 y_train.txt
