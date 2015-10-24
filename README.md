@@ -1,17 +1,17 @@
 # Project 1 Code Book
 ## Getting and Cleaning Data Project
 
-The run_analysis.R steps:
-First and third part of the exercise
-1 - Load the txt files into data frames; Test, Test Activity Labels, Test Subjects, Trainning, Trainning Activity Labels and Trainning Subjects. The files are:
-X_test.txt
-y_test.txt
-subject_test.txt
-X_train.txt
-y_train.txt
-subject_train.txt
-activity_labels.txt
-features.txt
+The run_analysis.R steps: <br />
+First and third part of the exercise <br />
+1 - Load the txt files into data frames; Test, Test Activity Labels, Test Subjects, Trainning, Trainning Activity Labels and Trainning Subjects. The files are: <br />
+X_test.txt                  <br />
+y_test.txt                  <br />
+subject_test.txt            <br />
+X_train.txt                 <br />
+y_train.txt                 <br />
+subject_train.txt           <br />
+activity_labels.txt         <br />
+features.txt                <br />
 2- Change some colunms name in the Test and Trainning data frames
 3- Create the colunms Subject and activity in the Test and Trainning data frames and merge with the Activities data frame in order to get the activities names.
 4- Merge the Test and Trainning rows
